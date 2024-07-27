@@ -50,15 +50,15 @@
 <h2>NICE Framework KSAs</h2>
 
 <ul>
-<li>K0474 - Knowledge of key cyber threat actors and their equities.</li><br>
-<li>K0548 - Knowledge of target or threat cyber actors and procedures.</li><br>
-<li>K0550 - Knowledge of the target, including related current events, communication profile, actors, history (language, culture), and frame of reference.</li><br>
-<li>A0107 - Ability to think like threat actors.</li><br>
-<li>K0017 - Knowledge of concepts and practices of processing digital forensic data.</li><br>
-<li>K0133 - Knowledge of types of digital forensics data and how to recognize them.</li><br>
-<li>K0184 - Knowledge of anti-forensics tactics, techniques, and procedures.</li><br>
-<li>K0304 - Knowledge of concepts and practices of processing digital forensic data.</li><br>
-<li>K0573 - Knowledge of the fundamentals of digital forensics to extract actionable intelligence.</li><br>
+<li>K0474: Knowledge of key cyber threat actors and their equities.</li><br>
+<li>K0548: Knowledge of target or threat cyber actors and procedures.</li><br>
+<li>K0550: Knowledge of the target, including related current events, communication profile, actors, history (language, culture), and frame of reference.</li><br>
+<li>A0107: Ability to think like threat actors.</li><br>
+<li>K0017: Knowledge of concepts and practices of processing digital forensic data.</li><br>
+<li>K0133: Knowledge of types of digital forensics data and how to recognize them.</li><br>
+<li>K0184: Knowledge of anti-forensics tactics, techniques, and procedures.</li><br>
+<li>K0304: Knowledge of concepts and practices of processing digital forensic data.</li><br>
+<li>K0573: Knowledge of the fundamentals of digital forensics to extract actionable intelligence.</li><br>
 
 </ul>
 
@@ -347,6 +347,18 @@ As we turn the pages, remember that the world of hacking is ever-evolving, refle
  
  </ul>
 
+<h2>Conclusion</h2>
+Learning about the history of hacking is crucial for understanding the evolution of cyber threats and developing effective strategies to combat them. By studying past hacking incidents, individuals and organizations gain insights into the techniques, motivations, and tactics used by hackers over time. This historical perspective helps identify patterns and emerging threats, informing current security practices and policies. It also provides valuable lessons on how vulnerabilities were exploited and how defenses have evolved, contributing to better preparedness and response to future attacks. Understanding hacker history enhances our ability to anticipate and mitigate risks, ultimately leading to more robust and resilient cybersecurity measures.
+
+<h2>Definitions</h2>
+<ul>
+<li><b>White Hat Hacker:</b> A cybersecurity professional who uses their hacking skills to help organizations identify and fix vulnerabilities in their systems.</li><br>
+<li><b>Black Hat Hacker:</b>  An individual who uses hacking techniques for malicious purposes, such as stealing data or disrupting systems.</li><br>
+<li><b>Grey Hat Hacker:</b>  A hacker who may occasionally cross ethical boundaries but generally seeks to improve security by discovering and reporting vulnerabilities.</li><br>
+<li><b>Phishing:</b>  A deceptive attempt to acquire sensitive information by pretending to be a trustworthy source through email or other communications.</li><br>
+<li><b>Malware:</b>  Malicious software designed to damage, disrupt, or gain unauthorized access to computer systems or networks.</li><br>
+<li><b>Penetration Testing:</b>  A simulated cyber attack conducted to identify and address security vulnerabilities in a system or network.</li>
+</ul>
 
 
 
@@ -358,5 +370,6 @@ As we turn the pages, remember that the world of hacking is ever-evolving, refle
 
 
 <h2> Hands-On Labs</h2>
+<h2>Games</h2></h2>
 
 <h2> Additional Resources</h2>
